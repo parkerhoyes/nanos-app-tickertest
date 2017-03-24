@@ -1,5 +1,10 @@
 # Ledger Nano S Ticker Test Application
 
+This simple app for the [Ledger Nano
+S](https://github.com/LedgerHQ/ledger-nano-s) is useful for testing the ticker
+on the MCU. The app simply displays the elapsed time on the screen, using the
+MCU ticker as a reference.
+
 ## License
 
 This app is distributed under the terms of the very permissive [Zlib
